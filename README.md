@@ -1,1 +1,1 @@
-# my_logistic_regression
+My implementation of Logistic Regression
